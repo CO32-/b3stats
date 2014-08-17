@@ -1,242 +1,257 @@
-Count: 2155
+Count: 2220
 
 TIMES PLAYED | INTERPRET | TITLE
 :----------: | ----------------- | ------------
-52   | Andreas Bourani | Auf uns
-49   | One Republic | Love Runs Out
-43   | Lilly Wood &amp; The Prick and Robin Schulz | Prayer in C (Robin Schulz Radio Edit)
-42   | Shakira | La la la (Brazil 2014)
-40   | George Ezra | Budapest
-39   | James Blunt | Postcards
-39   | Marlon Roudette | When The Beat Drops Out
-38   | Cro | Traum
-38   | The Common Linnets | Calm After The Storm
-36   | Sigma | Nobody To Love
-35   | Alle Farben featuring Graham Candy | She Moves (Far Away)
-32   | Calvin Harris | Summer
-32   | Klangkarussell | Netzwerk (Falls Like Rain)
-32   | Clean Bandit feat. Jess Glynne | Rather Be
-31   | Mr. Probz | Waves [Robin Schulz Remix]
+55   | Andreas Bourani | Auf uns
+52   | One Republic | Love Runs Out
+45   | Lilly Wood &amp; The Prick and Robin Schulz | Prayer in C (Robin Schulz Radio Edit)
+43   | Marlon Roudette | When The Beat Drops Out
+43   | Shakira | La la la (Brazil 2014)
+42   | George Ezra | Budapest
+41   | James Blunt | Postcards
+40   | The Common Linnets | Calm After The Storm
+39   | Sigma | Nobody To Love
+39   | Cro | Traum
+37   | Alle Farben featuring Graham Candy | She Moves (Far Away)
+35   | Klangkarussell | Netzwerk (Falls Like Rain)
+34   | Calvin Harris | Summer
+34   | Clean Bandit feat. Jess Glynne | Rather Be
+33   | Mr. Probz | Waves [Robin Schulz Remix]
+31   | Mark Forster featuring Sido | Au revoir
+31   | Pharrell Williams | Happy
+31   | Maroon 5 | Maps
+29   | Train | Angel in Blue Jeans
 29   | Pitbull/Jennifer Lopez/Claudia Leitte | We Are One (Ole Ola) [offizieller FIFA WM-Song 2014]
-29   | Maroon 5 | Maps
-28   | Mark Forster featuring Sido | Au revoir
-28   | Pharrell Williams | Happy
-26   | Train | Angel in Blue Jeans
-26   | Sam Smith | Stay with me
+27   | Sam Smith | Stay with me
+26   | Bakermat | One Day (Radio Version)
+25   | Vance Joy | Riptide
 25   | LaBrassBanda feat. Captain Sensible | Wot!
-24   | Vance Joy | Riptide
-24   | Bakermat | One Day (Radio Version)
 23   | Nico &amp; Vinz | Am I Wrong
+23   | Revolverheld | Lass uns gehen
+23   | Radio Doria | Verlorene Kinder
 23   | Rea Garvey | Can&#039;t Say No
-22   | Radio Doria | Verlorene Kinder
+22   | Coldplay | A Sky Full Of Stars (Radio Edit)
+22   | Lenny Kravitz | The Chamber
 22   | Ingrid Michaelson | Afterlife
 22   | Passenger | Scare Away The Dark
-21   | Coldplay | A Sky Full Of Stars (Radio Edit)
-21   | Revolverheld | Lass uns gehen
-20   | Ed Sheeran | Sing
+21   | Ed Sheeran | Sing
+21   | Mando Diao | Black Saturday
+21   | Lily Allen | Air Balloon
 20   | Adel feat. Matisyahu Tawil | Zuhause
-20   | Lenny Kravitz | The Chamber
-20   | Mando Diao | Black Saturday
-20   | Lily Allen | Air Balloon
-18   | American Authors | Best Day Of My Life
-18   | Vance Joy | Riptide (Flic Flac Remix)
+19   | American Authors | Best Day Of My Life
+19   | Vance Joy | Riptide (Flic Flac Remix)
+19   | David Guetta featuring Sam Martin | Lovers On The Sun
+18   | Both | Straight Outta Line
+17   | Jan Delay | Sie kann nicht tanzen
 17   | Michael Jackson &amp; Justin Timberlake | Love Never Felt So Good
-16   | David Guetta featuring Sam Martin | Lovers On The Sun
+16   | Rita Ora | I Will Never Let You Down
+16   | Avicii | Lay Me Down
 16   | BOTH | Straight Outta Line
-15   | Jan Delay | Sie kann nicht tanzen
-15   | Both | Straight Outta Line
+15   | Kiesza | Hideaway
+15   | John Legend | All Of Me
 15   | Avicii | Lay Me Down (Radio Edit)
-14   | Rita Ora | I Will Never Let You Down
-14   | Avicii | Lay Me Down
-14   | Kiesza | Hideaway
-14   | John Legend | All Of Me
+14   | Duke Dumont feat. Jax Jones | I got u
+13   | The Pretty Reckless | Heaven Knows
+13   | MAGIC! | Rude
 13   | Lenny Kravitz | The Chamber [Frühaufdreher-Hittipp]
-12   | The Pretty Reckless | Heaven Knows
-12   | Parov Stelar feat. Graham Candy | The Sun
-12   | Faul &amp; Wad Ad vs. Pnau | Changes
+13   | Faul &amp; Wad Ad vs. Pnau | Changes
+13   | Parov Stelar feat. Graham Candy | The Sun
 12   | Imagine Dragons | On Top Of The World
-12   | Duke Dumont feat. Jax Jones | I got u
+12   | Charli XCX | Boom Clap
+12   | The Lumineers | Ho Hey
 11   | Mark Forster featuring Sido | Au Revoir
-11   | Lana Del Rey | West Coast
 11   | Rita Ora | I Will Never Let You Down [Frühaufdreher-Hittipp]
+11   | Lana Del Rey | West Coast
 11   | Lana Del Rey | West Coast (Radio Mix)
-11   | MAGIC! | Rude
 11   | Eisenhauer | One For Me (Single Edit)
+11   | K&#039;naan | Wavin&#039; Flag (Celebration Mix)
+11   | Rea Garvey feat. Amy Macdonald | Oh My Love
+11   | Chima | 100 Elefanten
+11   | Fun. | Some nights
+11   | Volbeat | Cape Of Our Hero
+11   | Mumford &amp; Sons | I Will Wait
 11   | Elaiza | Is it right
-11   | The Lumineers | Ho Hey
-10   | Mighty Oaks | Brother
-10   | Fun. | Some nights
-10   | K&#039;naan | Wavin&#039; Flag (Celebration Mix)
-10   | Ella Henderson | Ghost
-10   | Jason Mraz | Love Someone (Radio Edit)
-10   | Sunrise Avenue | Lifesaver
-10   | Chima | 100 Elefanten
-10   | Mark feat. Sido Forster | Au Revoir (WM-Version)
-10   | Volbeat | Cape Of Our Hero
-10   | Capital Cities | Safe and Sound
-10   | Mumford &amp; Sons | I Will Wait
+11   | The Script | Superheroes
 10   | Coldplay | A Sky Full Of Stars
+10   | Capital Cities | Safe and Sound
+10   | Ella Henderson | Ghost
+10   | Mighty Oaks | Brother
+10   | Sunrise Avenue | Lifesaver
+10   | Jason Mraz | Love Someone (Radio Edit)
+10   | One Direction | Story Of My Life
+10   | Mark feat. Sido Forster | Au Revoir (WM-Version)
 10   | John Newman | Love Me Again
-9   | One Direction | Story Of My Life
-9   | Daft Punk feat. Pharrell Williams | Get Lucky
+9   | Gary Barlow | Let Me Go
+9   | Bastille | Things We Lost In The Fire
+9   | Iggy &amp; The German Kids | Mary Jane
 9   | Family Of The Year | Hero
-9   | Katy Perry | Roar!
+9   | Aloe Blacc | Hello World
 9   | Ed Sheeran | Don&#039;t
-9   | Rea Garvey feat. Amy Macdonald | Oh My Love
-9   | Charli XCX | Boom Clap
-8   | Gary Barlow | Let Me Go
-8   | The Script | Superheroes
-8   | Bastille | Things We Lost In The Fire
+9   | Imagine Dragons | It&#039;s Time
+9   | Route 94 feat. Jess Glynne | My Love
+9   | Katy Perry | Roar!
+9   | Daft Punk feat. Pharrell Williams | Get Lucky
+8   | Gotye featuring Kimbra | Somebody That I Used To Know
+8   | Clueso | Freidrehen
 8   | Of Monsters And Men | Little Talks
 8   | Jason Mraz | Love Someone
-8   | Iggy &amp; The German Kids | Mary Jane
 8   | Alle Farben Ft. Graham Candy | She Moves (Far Away) (Radio Mix)
-8   | Aloe Blacc | Hello World
 8   | Zedd feat. Hayley Williams | Stay the night
 8   | Katy Perry | Birthday
-8   | Imagine Dragons | It&#039;s Time
 8   | Calvin Harris feat. Ellie Goulding | I Need Your Love (Radio Version)
 8   | Robbie Williams | Candy
 8   | Lorde | Royals
 8   | Revolverheld | Ich lass&#039; für dich das Licht an
 8   | Will.i.am feat. Britney Spears | Scream &amp; Shout (Single)
-8   | Route 94 feat. Jess Glynne | My Love
+8   | Fun feat. Janelle Monáe | We are young
+8   | Martin Solveig &amp; Dragonette | Hello
 8   | Journey | Don&#039;t stop believin&#039;
+8   | Milky Chance | Stolen Dance (Single)
+8   | Gossip | Move in the right direction
 8   | Green Day | Boulevard of broken dreams
 8   | Asaf Avidan | One Day / Reckoning Song [Wankelmut Remix]
 8   | Olly Murs Featuring Flo Rida | Troublemaker
 8   | Klingande | Jubel
+8   | Wax | Rosana (Radio Version)
 7   | Icona Pop featuring Charli XCX | I love it
 7   | Christina Stürmer | Millionen Lichter
 7   | Mr. Probz | Waves (Robin Schulz Remix)
-7   | Clueso | Freidrehen
 7   | Pharrell Williams | Marilyn Monroe
+7   | Bruno Mars | The Lazy Song
+7   | Gigi D&#039;Agostino | La Passion
 7   | Caro Emerald | A Night Like This
 7   | Bon Jovi | The More Things Change
-7   | Gotye featuring Kimbra | Somebody That I Used To Know
-7   | Fun feat. Janelle Monáe | We are young
-7   | Martin Solveig &amp; Dragonette | Hello
+7   | Paul &amp; Fritz Kalkbrenner | Sky and sand
+7   | DJ Antoine feat. The Beat Shakers | Ma chérie
+7   | Bastille | Pompeii
+7   | Milow | Against The Tide
+7   | Empire Of The Sun | Alive
 7   | Die Toten Hosen | Tage wie diese
 7   | Miley Cyrus | Wrecking Ball
 7   | Naughty Boy feat. Sam Smith | La La La
-7   | Milky Chance | Stolen Dance (Single)
 7   | David Guetta  (feat. Sam Martin) | Lovers On The Sun
-7   | Gossip | Move in the right direction
 7   | John Legend | All Of Me (Radio Edit)
 7   | Colbie Caillat | Brighter Than The Sun
-7   | Wax | Rosana (Radio Version)
+7   | Sunrise Avenue | I Don&#039;t Dance
 7   | Lorde | Tennis Court
+7   | Talisco | Your Wish
 7   | Van Halen | Jump
 7   | Foster the People | Pumped Up Kicks
-6   | Robin Thicke feat. Pharrell | Blurred lines (Single)
 6   | Juun feat. Sam Smith | When it&#039;s alright
 6   | Pink Floyd | Another brick in the wall (Part 2)
+6   | Lucenzo feat. Don Omar | Danza Kuduro
 6   | Bryan Adams | Summer of 69
+6   | Pitbull feat. Ke$ha | Timber
 6   | Culcha Candela | Von allein
-6   | Milow | Against The Tide
+6   | Imagine Dragons | Radioactive
+6   | Seeed | Cherry Oh 2014
+6   | Robin Thicke feat. Pharrell | Blurred lines (Single)
+6   | Cris Cab | Liar Liar
+6   | Sportfreunde Stiller | Applaus, Applaus
 6   | Arash feat. Sean Paul | She Makes Me Go
 6   | Alice Cooper | Poison
 6   | Baddiel &amp; Skinner | Three lions
-6   | Bruno Mars | The Lazy Song
 6   | Joan Jett &amp; Blackhearts | I love Rock&#039;n&#039;Roll
 6   | Empire of the sun | We are the people
 6   | Cee-Lo Green | Forget You!
+6   | Imagine Dragons | Demons
 6   | Simple Minds | Don&#039;t you (forget about me)
 6   | Michael Buble | It&#039;s A Beautiful Day
-6   | Paul &amp; Fritz Kalkbrenner | Sky and sand
-6   | Talisco | Your Wish
-6   | DJ Antoine feat. The Beat Shakers | Ma chérie
-6   | Bastille | Pompeii
+6   | Sierra Kidd | Knicklicht
 6   | Kongos | Come With Me Now
 6   | EMF | Unbelievable
 6   | Nickelback | Rockstar
-6   | Empire Of The Sun | Alive
+6   | Avicii | Addicted To You
+6   | Jason Derulo feat. Snoop Dogg | Wiggle
+6   | Sportfreunde Stiller | Wieder kein Hit
 6   | Leslie Clio | I Couldn&#039;t Care Less
 6   | Caligola | Forgive Forget
+6   | Steve Miller Band | Abracadabra
+6   | Rick Springfield | Jessie&#039;s girl
 6   | AC/DC | Highway to hell
 6   | Haddaway | What is love
 6   | Martin Tungevaag | Wicked Wonderland
-6   | Sunrise Avenue | I Don&#039;t Dance
+6   | Linkin Park | Burn It Down
 6   | Lily Allen | Hard Out Here
 5   | Sugababes | Push the button
+5   | Marillion | Kayleigh
+5   | Amy Ronson | Valerie
 5   | Swedish House Mafia feat. John Martin | Don&#039;t you worry child
-5   | Gigi D&#039;Agostino | La Passion
-5   | Lucenzo feat. Don Omar | Danza Kuduro
 5   | Bruce Springsteen | Hungry heart
 5   | Queen | We are the champions
-5   | Pitbull feat. Ke$ha | Timber
 5   | Mapei | Don&#039;t wait
-5   | Imagine Dragons | Radioactive
-5   | Rainbow | Since you been gone
-5   | Velile; Safri Duo | Helele
 5   | Taio Cruz | Hangover (Radio Version)
+5   | Rainbow | Since you been gone
+5   | Clash | Should I Stay Or Should I Go
+5   | Velile; Safri Duo | Helele
 5   | Tasmin Archer | Sleeping satellite
-5   | Cris Cab | Liar Liar
-5   | Sportfreunde Stiller | Applaus, Applaus
+5   | Gabriella Cilmi | Sweet about me
+5   | Hozier | Take Me To Church
 5   | Kid Rock | All Summer Long
 5   | Avicii | Levels
+5   | Survivor | Eye of the tiger
+5   | Bruce Springsteen | Cover me
 5   | Fettes Brot | Für immer Immer
+5   | Inner Circle | Sweat (a la la la la long)
 5   | AC/DC | Rock &#039;N&#039; Roll Train
-5   | Avicii | Addicted To You
 5   | Sportfreunde Stiller | New York, Rio, Rosenheim
-5   | Steve Miller Band | Abracadabra
 5   | Ed Sheeran | I See Fire (Single)
 5   | Gnarls Barkley | Crazy
 5   | Kate Yanai | Summer Dreamin&#039; (Bacardi-Radio-Version)
+5   | Michael Jackson | Billie Jean
 5   | Right Said Fred | Stand up for the champions
-5   | Imagine Dragons | Demons
+5   | Overtones | Gambling man
 5   | Ellie Goulding | Lights
+5   | Rhonda | Camera
 5   | Magic System feat. Ahmed Chawki | Magic In The Air
-5   | Sierra Kidd | Knicklicht
+5   | Twisted Sister | We&#039;re not gonna take it
+5   | Bon Jovi | Because We Can
 5   | Bê Ignacio | Ayo Aye
 5   | Gusttavo Lima | Balada
 5   | John Parr | St. Elmo&#039;s Fire
-5   | Michael Jackson | Billie Jean
 5   | Bruno Mars | Locked Out Of Heaven
+5   | Taio Cruz | World in our hands
 5   | R.E.M. | Losing my religion
 5   | Linkin Park | Shadow Of The Day
 5   | Lucenzo  (feat. Don Omar) | Danza Kuduro
-5   | Jason Derulo feat. Snoop Dogg | Wiggle
 5   | Caro Emerald | Stuck
-5   | Sportfreunde Stiller | Wieder kein Hit
 5   | Die Toten Hosen | Altes Fieber
 5   | Kaiser Chiefs | Ruby
 5   | Robbie Williams | Go Gentle
-5   | Rick Springfield | Jessie&#039;s girl
 5   | Phantom Planet | California
 5   | Klangkarussell | Sonnentanz
 5   | Corey Hart | Sunglasses at night
 5   | The Script feat. Will.I.Am | Hall of fame
-5   | Linkin Park | Burn It Down
+5   | Run-D.M.C. featuring Aerosmith | Walk this way
+5   | Lifehouse | Halfway gone
 5   | Dr. Alban | Sing Hallelujah!
 5   | Nelly | Hey Porsche
 5   | Spin Doctors | Two princes
 5   | Frida Gold | Liebe ist meine Rebellion
-4   | Marillion | Kayleigh
+4   | Orchestral Manoeuvres In The Dark | Walking on the milky way
 4   | The Bucketheads | The bomb (These sounds fall into my mind)
 4   | Hooters | Johnny B.
+4   | Blank &amp; Jones | Daydreamin&#039;
 4   | Cro | Traum [Cro Remix]
+4   | Pink | Blow me (one last kiss) (Explicit Version)
 4   | Us3 | Cantaloop
 4   | Taio Cruz | Dynamite
 4   | Herbert Grönemeyer | Zeit, dass sich was dreht
-4   | Amy Ronson | Valerie
 4   | Queen | We will rock you
+4   | James Blunt | Heart To Heart
 4   | Corona | The rhythm of the night
-4   | Inner Circle | Sweat (a la la la la long)
-4   | Clash | Should I Stay Or Should I Go
+4   | Gossip | Heavy Cross
 4   | ZZ Top | Sharp dressed man
 4   | Peter Gabriel | Sledgehammer
-4   | Gabriella Cilmi | Sweet about me
-4   | Hozier | Take Me To Church
 4   | Carly Rae Owl City; Jepsen | Good time
 4   | 4 Non Blondes | What&#039;s up?
 4   | Eagle-Eye Cherry | Save tonight
 4   | Pink | Bad Influence
-4   | Survivor | Eye of the tiger
 4   | Ahzumjot | Geschichte
 4   | Cro | Einmal um die Welt
 4   | Milky Chance | Down By The River
 4   | Crystal Fighters | Love Alight
+4   | Alexandra Stan | Mr. Saxobeat
 4   | Pia Jackson | When the rain begins to fall
 4   | Vika Maya | Stereo Love
 4   | Toploader | Dancing in the moonlight
@@ -244,19 +259,17 @@ TIMES PLAYED | INTERPRET | TITLE
 4   | Peter Fox | Haus am See
 4   | Michael Sembello | Maniac
 4   | U2 | With or without you
-4   | Overtones | Gambling man
+4   | Cro | Whatever
 4   | Revolverheld | Das kann uns keiner nehmen
 4   | The Great Bertholinis | Reddest Of The Lights
-4   | Rhonda | Camera
 4   | Lorde | Team
-4   | Twisted Sister | We&#039;re not gonna take it
-4   | Bon Jovi | Because We Can
-4   | Bruce Springsteen | Cover me
+4   | Third Eye Blind | Semi-charmed life
 4   | Manfred Mann | Davy&#039;s on the road again
 4   | Jimmy Cliff | I can see clearly now
+4   | FIVA | Einen Sommer lang nur tanzen
 4   | Heroes Del Silencio | Entre dos tierras
-4   | Taio Cruz | World in our hands
-4   | Orchestral Manoeuvres In The Dark | Walking on the milky way
+4   | Bob&amp; the Wailers Marley | Could you be loved
+4   | Beyoncé | Halo
 4   | Linkin Park | Castle Of Glass
 4   | Foreigner | Say you will
 4   | Coldplay | Viva La Vida
@@ -265,12 +278,16 @@ TIMES PLAYED | INTERPRET | TITLE
 4   | Dr. Alban | It&#039;s my life
 4   | Bon Jovi | Livin&#039; on a prayer
 4   | Jessie J feat. B.o.B | Price Tag
-4   | Milow | We Must Be Crazy
+4   | Rudimental feat. Emeli Sandé | Free
+4   | Pet Shop Boys | Se a vida é (That&#039;s the way life is)
 4   | Jefferson Starship | Nothing&#039;s gonna stop us now
 4   | Adele | Set Fire To The Rain
-4   | Blank &amp; Jones | Daydreamin&#039;
+4   | The Madden Brothers | We Are Done
 4   | Rihanna | Diamonds
 4   | ZZ Top | Gimme all your lovin&#039;
+4   | Milow | We Must Be Crazy
+4   | Digitalism feat. Youngblood Hawke | Wolves
+4   | Pitbull; Christina Aguilera | Feel This Moment
 4   | Deee-Lite | Groove is in the heart
 4   | U2 | Pride (In the name of love)
 4   | AC/DC | Hells bells
@@ -279,15 +296,14 @@ TIMES PLAYED | INTERPRET | TITLE
 4   | Foreigner | Juke box hero
 4   | Rolling Stones | Start me up
 4   | Amy MacDonald | This is the life
-4   | Run-D.M.C. featuring Aerosmith | Walk this way
 4   | Avicii | Hey Brother
 4   | Sunrise Avenue | Hollywood Hills
 4   | Ellie Goulding | Burn
+4   | Kim Wilde | You keep me hangin&#039; on
 4   | Survivor | Burning heart
-4   | Lifehouse | Halfway gone
-4   | Seeed | Cherry Oh 2014
 4   | Head East | If you knew me better
 4   | Gorgon City feat. Laura Welsh | Here For You
+4   | David; Rowland Guetta | When Love Takes Over
 4   | Green Day | 21 Guns
 4   | Linkin Park | Burning in the skies
 4   | Robbie Williams | Let me entertain you
@@ -295,66 +311,84 @@ TIMES PLAYED | INTERPRET | TITLE
 4   | Dario G | Carneval de Paris
 4   | Duran Duran | Wild boys
 4   | Anastacia | Stupid Little Things
+4   | Michel Teló | Ai Se Eu Te Pego
 4   | Hubert von Goisern | Brenna tuats guat
 4   | Tom Odell | Another Love (Zwette Mix)
 3   | Boston | More than a feeling
+3   | Stefan Dettl | Summer of love
+3   | Alanis Morissette | Guardian
+3   | Ugly Kid Joe | Cats in the cradle
 3   | Falco | Rock me Amadeus
 3   | George Michael | Freedom
+3   | Coldplay | Clocks
 3   | Camera2 | Appetite
-3   | Beyoncé | Halo
 3   | Everlast | What it&#039;s like
+3   | Blink-182 | All the small things
 3   | Rob Santana; Thomas | Smooth
 3   | Mr. Mister | Kyrie
 3   | Eliza Doolittle | Pack Up
 3   | Amy Winehouse | Rehab
-3   | Third Eye Blind | Semi-charmed life
+3   | Falco | Egoist
 3   | Mark Forster featuring Sido | Au revoir (WM-Version)
 3   | Kooks | She moves in her own way
-3   | Don Henley | The boys of summer
+3   | Aerosmith | Crazy
+3   | Marteria / Yasha / Miss Platnum | Lila Wolken
 3   | Bob Sinclar | Love generation
 3   | Eliza Doolittle | Skinny Genes
 3   | Queen | Don&#039;t stop me now
+3   | Bryan Adams | Heaven
 3   | Chad Kroeger | Hero
 3   | Kim Carnes | Bette Davis eyes
 3   | Aloe Blacc | The Man
 3   | De-Phazz | The Mambo craze
+3   | Clean Bandit featuring Stylo | Come Over
 3   | Savage Garden | To the moon and back
+3   | Madonna | American pie
 3   | John Farnham | You&#039;re The Voice
 3   | Diana Ross | Upside down
 3   | Knack | My Sharona
 3   | Nelly Furtado | Say it right
 3   | Milow | You don&#039;t know
+3   | Marteria | Kids (2 Finger an den Kopf)
 3   | Snap | Rhythm is a dancer
 3   | Liquido | Narcotic
 3   | Madcon | Beggin&#039;
 3   | Volbeat | Lola Montez
+3   | Rolling Stones | Anybody seen my baby
 3   | Whitney Houston | I wanna dance with somebody (who loves me)
-3   | Rudimental feat. Emeli Sandé | Free
 3   | Robbie Williams | Supreme
 3   | Daughtry | Over You
+3   | Ariana Grande feat. Iggy Azalea | Problem
 3   | Chumbawamba | Tubthumping
 3   | Lou Gramm | Midnight blue
 3   | Indiana | Solo Dancing
+3   | Tina Turner | The best
 3   | Die Ärzte | Lasse redn
-3   | Kim Wilde | You keep me hangin&#039; on
+3   | Billy Idol | Rebel Yell (Single Edit)
 3   | Bon Jovi | In these arms
 3   | Pet Shop Boys | Suburbia
+3   | Madcon featuring Kelly Rowland | One Life
 3   | Madcon | Glow
 3   | Mr. Big | To be with you
+3   | 2Pac | California love
 3   | Sarah Straub | Red
 3   | My Glorious | James Dean
 3   | Robert Miles | Children
-3   | Pink | Blow me (one last kiss) (Explicit Version)
+3   | Roxette | Sleeping in my car
 3   | Hoobastank | The Reason
 3   | Bonnie Tyler | Holding out for a hero
 3   | Dandy Warhols | Bohemian like you
 3   | Passenger | Let Her Go (Single)
 3   | Roger Sanchez | Another chance
+3   | Cheryl Cole | Fight for this love
 3   | The Makemakes featuring Dettl + LaBrass | Million Euro Smile
 3   | Nick Kamen | I promised myself
 3   | Cee-Lo Green | Bright Lights Bigger City
+3   | Mike; Chapman Oldfield | Shadow on the wall
+3   | John Waite | Missing you
 3   | Blank &amp; Jones | Relax
-3   | Gossip | Heavy Cross
+3   | Juli | Perfekte Welle
+3   | Michael Jackson | Black or white
 3   | Billy Joel | We didn&#039;t start the fire (Single)
 3   | Midnight Oil | Beds are burning
 3   | Peter Schilling | Major Tom (Völlig losgelöst)
@@ -364,20 +398,17 @@ TIMES PLAYED | INTERPRET | TITLE
 3   | Yes | Owner of a lonely heart
 3   | Phil Collins | In the air tonight
 3   | Nick Mulvey | Cucurucu
-3   | FIVA | Einen Sommer lang nur tanzen
-3   | Cro | Whatever
 3   | Katy Perry | Hot n Cold
 3   | Baddiel &amp; Skinner | OneHitWonder # 240 &#034;Baddiell &amp; Skinner&#034; (13.7.)
 3   | Bellini | Samba Do Brasil
+3   | Billy Squier | The stroke
+3   | Killers | Human
 3   | Seinabo Sey | Younger
 3   | Deep Blue Something | Breakfast at Tiffany&#039;s
 3   | Rihanna feat. Calvin Harris | We Found Love
 3   | Kid Rock | Born Free
 3   | Stromae | Papaoutai
-3   | Miami Sound Machine | Conga
 3   | Prince Ital Joe; Marky Mark | United
-3   | Tina Turner | The best
-3   | Pitbull; Christina Aguilera | Feel This Moment
 3   | Lykke Li | I Follow Rivers [The Magician Remix]
 3   | Train | Hey Soul Sister
 3   | Duck Sauce | Barbra Streisand
@@ -386,17 +417,24 @@ TIMES PLAYED | INTERPRET | TITLE
 3   | Amy MacDonald | Mr. Rock&#039;n Roll
 3   | John Legend | All Of Me (Album Version)
 3   | Toto | Africa
+3   | Mike &amp; the Mechanics | All I need is a miracle
 3   | Pink | Try
 3   | Kylie Minogue | Can&#039;t get you out of my head
 3   | Edoardo Nannini | Un estate italiana
+3   | Kings Of Leon | Use Somebody
 3   | Thompson Twins | Lay your hands on me
 3   | Xavier Naidoo | Bei Meiner Seele - Radioversion (DJ Release Remix)
+3   | Queen | Radio Ga Ga (Single)
 3   | Broilers | Ich will hier nicht sein
+3   | Die Toten Hosen | Das ist der Moment
 3   | Puff Daddy &amp; Faith Evans | I&#039;ll be missing you (Single)
+3   | Don Henley | The boys of summer
 3   | Duffy | Mercy
 3   | The White Stripes | Seven nation army
+3   | Noah And The Whale | L.I.F.E.G.O.E.S.O.N.
 3   | Freddie Mercury | Living on my own
 3   | Passenger | Holes
+3   | Uncle Kracker | Follow me
 3   | Flo Rida | Whistle
 3   | Bon Jovi | These days
 3   | Queen | Killer Queen
@@ -404,26 +442,25 @@ TIMES PLAYED | INTERPRET | TITLE
 3   | Glasperlenspiel | Nie vergessen
 3   | Justin Timberlake | Mirrors
 3   | Alicia Keys | Girl On Fire
+3   | Yazoo | Don&#039;t go
 3   | Fences feat. Macklemore &amp; Ryan Lewis | Arrows
 3   | Helene Fischer | Atemlos durch die Nacht
 3   | Jennifer Lopez | On the floor
-3   | Katy Perry | Last Friday Night (T.G.I.F.)
 3   | Brooke Fraser | Something In The Water
-3   | Bob&amp; the Wailers Marley | Could you be loved
-3   | 2Pac | California love
 3   | Otto Knows | Million Voices
 3   | The Asteroids Galaxy Tour | My Club
 3   | Sergio Mendes featuring Black Eyed Peas | Mas Que Nada
+3   | Olly Murs feat. Rizzle Kicks | Heart Skips A Beat
 3   | 30 Seconds To Mars | Closer to the Edge
 3   | Dominoe | Here I am
-3   | Pet Shop Boys | Se a vida é (That&#039;s the way life is)
-3   | The Madden Brothers | We Are Done
+3   | Miami Sound Machine | Conga
 3   | Guns n&#039; Roses | Sweet child o&#039;mine
 3   | Die Ärzte | Westerland
 3   | Toto | Hold the line
-3   | Digitalism feat. Youngblood Hawke | Wolves
 3   | Lipps Inc. | Funkytown
 3   | Lynyrd Skynyrd | Sweet home Alabama
+3   | Jack Johnson | Upside down
+3   | Lene Marlin | Sitting down here
 3   | Hurts | Stay
 3   | Bryan Adams | The only thing that looks good on me is you
 3   | John Legend | All Of Me (Tiesto Remix)
@@ -432,9 +469,9 @@ TIMES PLAYED | INTERPRET | TITLE
 3   | Ella Eyre | If I Go
 3   | Ingrid Michaelson | Girls Chase Boys
 3   | Kiss | God gave Rock and Roll to you II
+3   | Men At Work | Down under
 3   | Katy Perry | Unconditionally
 3   | Pink | Sober
-3   | Michel Teló | Ai Se Eu Te Pego
 3   | Ricky Martin | The cup of life
 3   | Oasis | Don&#039;t look back in anger
 3   | Black Eyed Peas | I Gotta Feeling
@@ -442,54 +479,61 @@ TIMES PLAYED | INTERPRET | TITLE
 3   | Stanfour | Wishing You Well
 3   | Wet Wet Wet | Love is all around
 3   | Black Eyed Peas | Mas Que Nada (edit)
-3   | James Blunt | Heart To Heart
 3   | Van Halen | Can&#039;t stop lovin&#039; you
 3   | Sportfreunde Stiller | 54, &#039;74, &#039;90, 2006
-3   | U2 | Sweetest thing
-3   | Madonna | La isla bonita
 3   | Everything But The Girl | Missing (Remix)
+3   | U2 | Sweetest thing
+3   | Dr. Alban | Sing Hallelujah
+3   | Madonna | La isla bonita
 3   | Blondie | Maria
-3   | Alexandra Stan | Mr. Saxobeat
+3   | Sheppard | Geronimo
 3   | Tom Cochrane | Life is a highway
+3   | Milky Chance | Stolen dance
 3   | Simple Plan  (feat. Sean Paul) | Summer Paradise
 3   | Moby | Disco lies
 3   | Blank &amp; Jones | Breezin&#039;
 3   | David Bowie | China girl
 3   | Katrina &amp; The Waves | Walking on sunshine
 3   | Bakermat | One Day (Vandaag)
+3   | Ich + Ich | Vom selben Stern
 3   | Heart | All I wanna do is make love to you
 3   | R.E.M. | Man On The Moon
+3   | Green Day | Stray Heart
 3   | Die Fantastischen Vier | Sie ist weg
 3   | Bon Jovi | Runaway
 3   | Europe | The final countdown
 3   | Keller Steff &amp; Band | Weltmeister - Version WM 2014
+3   | Katy Perry | Last Friday Night (T.G.I.F.)
+3   | Huey Lewis &amp; The News | The power of love
+3   | Cro | Bad Chick
 3   | Disco Boys | For You
 3   | Nelly Furtado | Forca
+3   | Coolio featuring L.V. | Gangsta&#039;s paradise
+3   | AC/DC | Back In Black
 3   | Fine Young Cannibals | Good thing
+3   | Holstuonarmusigbigbandclub | Vo Mello bis ge Schoppornou
 3   | Placebo | Too Many Friends
 3   | Keri Hilson | I like
 3   | Phil/Bailey Collins | Easy lover
 3   | Xavier Naidoo | Dieser Weg
-3   | David; Rowland Guetta | When Love Takes Over
+3   | John Farnham | That&#039;s freedom
 3   | Nelly Furtado | All Good Things (Come To An End)
+3   | Toto | Rosanna
 3   | Bryan Adams | One night love affair
 3   | Dario G | Sunchyme
-2   | Claire | Silent Friday
-2   | Stefan Dettl | Summer of love
+3   | Titiyo | Come along
+2   | Joe Cocker | You can leave your hat on
 2   | Frank Zappa | Bobby Brown
-2   | Alanis Morissette | Guardian
 2   | Roxette | Joyride
 2   | Seeed | Augenbling
 2   | Lana Del Rey | West Coast (Laibert Remix)
-2   | Ugly Kid Joe | Cats in the cradle
-2   | Rolling Stones | Anybody seen my baby
 2   | Goo Goo Dolls | Give a little bit (Album Version)
 2   | Crystal Fighters | You &amp; I
 2   | Nickelback | Photograph
 2   | Olly Murs ft. Rizzle Kicks | Heart Skips A Beat
 2   | Pink | Don&#039;t let me get me
+2   | Shania Twain | That don&#039;t impress me much
 2   | Sigma | Nobody To Love [Frühaufdreher-Hittipp]
-2   | Blink-182 | All the small things
 2   | Lionel Richie | All night long (all night)
 2   | Meat Loaf | Modern girl
 2   | Red Hot Chili Peppers | Give it away
@@ -502,54 +546,49 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Bruno Mars | Grenade
 2   | Roxette | It must have been love
 2   | Bruno Mars | Just The Way You are
-2   | Falco | Egoist
-2   | Cheryl Cole | Fight for this love
 2   | Urge Overkill | Girl, you&#039;ll be a woman soon
 2   | Guesch Patti | Etienne
 2   | Prince | When doves cry
 2   | Pussycat Dolls; Busta Rhymes | Don&#039;t cha
 2   | FKA twigs | Two Weeks
 2   | Lady Gaga | Born This Way (Single)
-2   | Red Hot Chili Peppers | Snow (Hey Oh)
 2   | Pink | Who Knew
 2   | Adele | Rolling In The Deep
-2   | Aerosmith | Crazy
 2   | Falco | Jeanny (Part 1)
 2   | Genesis | I can&#039;t dance
 2   | Lykke Li | I Follow Rivers (The Magician Remix)
 2   | Status Quo | Whatever you want
-2   | Marteria / Yasha / Miss Platnum | Lila Wolken
+2   | Milow | Ayo Technology
 2   | INXS | Mystify
 2   | The Airborne Toxic Event | Sometime Around Midnight
 2   | Genesis | Land of confusion
 2   | Prince | 1999
-2   | Bryan Adams | Heaven
 2   | The New Pornographers | Brill Bruisers
 2   | Bruno Mars | Marry you
 2   | Will Smith | Men in black
 2   | Wham! | Wake me up before you go go
 2   | Lionel Richie | My destiny
-2   | Clean Bandit featuring Stylo | Come Over
-2   | Madonna | American pie
 2   | John Mellencamp | Small town
 2   | Ugly Kid Joe | Everything about you
 2   | U2 | Beautiful day
 2   | Bon Jovi | It&#039;s my life
+2   | Katy Perry (feat. Snoop Dogg) | California gurls
 2   | Alannah Myles | Black velvet
 2   | Paul McCartney; Michael Jackson | Say say say
 2   | eRRdeKa | Schwarz Weiß
-2   | Whitesnake | Is this love
+2   | Smash Mouth | I&#039;m a believer
+2   | Laura Branigan | Self control
 2   | Herbert Grönemeyer | Halt mich
 2   | AC/DC | T.N.T.
 2   | Russ Ballard | The story of the making of the fire still burns
-2   | Marteria | Kids (2 Finger an den Kopf)
 2   | Sniff&#039;n&#039; The Tears | Driver&#039;s seat
 2   | Black Eyed Peas | Shut up
 2   | John Mayer | Your body is a wonderland
+2   | Christina Stürmer | Ich hör auf mein Herz
 2   | MGMT | Kids
 2   | Falco | Der Kommissar
-2   | Ariana Grande feat. Iggy Azalea | Problem
 2   | Nik Kershaw | The riddle
+2   | Chaka &amp; Pliers Demus | Twist and Shout
 2   | PSY | Gangnam style
 2   | Larry Clayton | Theme from Mission Impossible
 2   | Cyndi Lauper | Girls just want to have fun
@@ -558,11 +597,10 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Stefan Dettl | Rockstar
 2   | Kraftklub | Unsere Fans
 2   | Die Fantastischen Vier | MfG (Mit freundlichen Grüßen)
-2   | Billy Idol | Rebel Yell (Single Edit)
 2   | Crowded House | Weather with you
+2   | Culture Beat | Mr. Vain
 2   | Jason Mraz | I&#039;m Yours
 2   | Snow Patrol | Run
-2   | Madcon featuring Kelly Rowland | One Life
 2   | Robert Tepper | No easy way out
 2   | Robbie Williams | Rock DJ
 2   | U2 | Where the streets have no name
@@ -573,12 +611,13 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Madonna | Like a prayer
 2   | Adel Tawil | Zuhause (FINALE WM Version)
 2   | Green Day | When I come around
+2   | Queen &amp; David Bowie | Under Pressure
 2   | George Ezra | Budapest - Achtabahn Short Mix
-2   | Roxette | Sleeping in my car
 2   | Michael Learns To Rock | Wild Women
 2   | N&#039;Dour | 7 seconds
 2   | Green Day | Basket Case
 2   | Sinkane | Hold Tight
+2   | Apollo Four Forty | Ain&#039;t talkin&#039; bout dub
 2   | Fatboy Slim | The Rockafeller Skank
 2   | Queen | A kind of magic
 2   | Honig | Lemon Law
@@ -589,13 +628,12 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Iggy Azalea featuring Charli XCX | Fancy
 2   | Stranglers | Always the sun
 2   | Plan B | She said
-2   | Mike; Chapman Oldfield | Shadow on the wall
+2   | Whitesnake | Is this love
 2   | Theophilus London | Wine &amp; Chocolates [andhim Remix]
-2   | John Waite | Missing you
-2   | Juli | Perfekte Welle
 2   | Joy Division | Love will tear us apart
+2   | Moloko | Sing it back
+2   | Eddie Money | Take me home tonight
 2   | La Roux | Sexotheque
-2   | Michael Jackson | Black or white
 2   | Crystal Fighters | At Home
 2   | Simple Plan | Your Love is a lie
 2   | Tears For Fears | Shout (Single)
@@ -605,6 +643,7 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Volbeat | We
 2   | Kesha | Tik Tok
 2   | Christina Stürmer | Nie genug
+2   | Tanita Tikaram | Twist in my sobriety
 2   | Usher | DJ got us fallin&#039; in love
 2   | Avey Tare&#039;s Slasher Flicks | Little Fang
 2   | Die Ärzte | Männer sind Schweine
@@ -622,10 +661,9 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Interpol | All The Rage Back Home
 2   | C2C feat. Derek Martin | Happy
 2   | Santana featuring The Product G&amp;B | Maria Maria
-2   | Billy Squier | The stroke
-2   | Killers | Human
 2   | Snap | The first the last eternity
 2   | Billy Joel | The river of dreams
+2   | Guns n&#039; Roses | Knockin&#039; on heaven&#039;s door
 2   | All-American Rejects | Gives You Hell
 2   | Mike &amp; the Mechanics | Word of mouth
 2   | Juanes | La Camisa Negra
@@ -650,21 +688,19 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Fujiya &amp; Miyagi | Acid To My Alkaline
 2   | Mousse T. | Is it &#039;cos I&#039;m cool?
 2   | DJ Snake &amp; Lil Jon | Turn Down for What
+2   | Camouflage | The great commandment
 2   | Django 3000 | Heidi
 2   | Alicia Keys | No one
 2   | No Doubt | Just a girl
 2   | Clowns und Helden | Ich liebe Dich
-2   | Mike &amp; the Mechanics | All I need is a miracle
+2   | Shaggy; Rayvon | Angel
 2   | Status Quo | What you&#039;re proposin
 2   | Ann Lee | 2 Times
-2   | Kings Of Leon | Use Somebody
 2   | Alex Clare | War Rages On
 2   | Billy Idol | Sweet sixteen
 2   | Olly Murs | Dear Darlin&#039;
 2   | Limp Bizkit | Behind blue eyes
 2   | Faithless | God is a DJ
-2   | Queen | Radio Ga Ga (Single)
-2   | Die Toten Hosen | Das ist der Moment
 2   | Robin S | Luv 4 luv
 2   | Freelance Whales | Kilojoules
 2   | Nelly Furtado | Powerless (Say What You Want)
@@ -681,24 +717,21 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Luis Laserpower | &#039;99
 2   | Joe Cocker | Unchain my heart
 2   | Him | Join me
-2   | Noah And The Whale | L.I.F.E.G.O.E.S.O.N.
 2   | Lady Gaga | Paparazzi
-2   | Uncle Kracker | Follow me
 2   | Mr. Big | Wild world
 2   | Bomfunk MC&#039;s | Freestyler
 2   | Lady Gaga feat. R. Kelly | Do What U Want
 2   | Ram Jam | Black Betty
 2   | Seeed | Cherry Oh
 2   | Rea Garvey | Wild love
+2   | Saidah Baba Talibah | Do it
 2   | Wes | Alane
 2   | DJ Antoine vs. Timati feat. Kalenna | Welcome To St. Tropez
-2   | Huey Lewis &amp; The News | The power of love
 2   | The Black Keys | Fever
 2   | Mark Morrison | Return of the mack
 2   | Jungle | Time
 2   | Sia | Chandelier (Liam Keegan Remix)
 2   | Lady Gaga | The Edge Of Glory
-2   | Yazoo | Don&#039;t go
 2   | Zaz | Je veux
 2   | Night Shirts | Queimada Grande
 2   | Grimes feat. Blood Diamonds | Go
@@ -716,36 +749,35 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | John Mellencamp | Jack And Diane
 2   | Loverboy | Turn me loose
 2   | Aneta | The One
-2   | Olly Murs feat. Rizzle Kicks | Heart Skips A Beat
-2   | Coldplay | Clocks
 2   | Queen | Another one bites the dust
 2   | U2 | I still haven&#039;t found what I&#039;m looking for
 2   | Cheap Trick | I want you to want me (Live)
 2   | Madonna | Vogue
 2   | Texas | Inner smile
 2   | Crazy Town | Butterfly
+2   | Empire Of The Sun | Alive (Mat Zo Remix)
+2   | Cro | Easy
 2   | Macklemore &amp; Ryan Lewis feat Ray Dalton | Can&#039;t Hold Us
 2   | Men Without Hats | The safety dance
 2   | Katy; Snoop Dogg Perry | California gurls
 2   | Irene Cara | Flashdance ... what a feeling
-2   | Jack Johnson | Upside down
-2   | Lene Marlin | Sitting down here
 2   | Meredith Brooks | Bitch
 2   | Killers | Mr. Brightside
 2   | Crash Test Dummies | Mmm Mmm Mmm Mmm
 2   | REO Speedwagon | Keep the fire burnin&#039;
 2   | Seal | Crazy
 2   | Eurythmics | Sweet dreams (are made of this)
+2   | Take That | The Flood
 2   | Cro | Never Cro Up
 2   | Nik Kershaw | Wouldn&#039;t it be good
 2   | Billy Idol | Hot in the city
 2   | Mando Diao | Sweet Wet Dreams
 2   | Frank Popp Ensemble | Hip Teens Don&#039;t Wear Blue Jeans
-2   | Men At Work | Down under
 2   | Queen | I want to break free
 2   | Trümmer | Der Saboteur
 2   | Supermax | Lovemachine Part I
 2   | M | Pop Muzik
+2   | Status Quo | In the army now
 2   | Phil Collins | Don&#039;t lose my number
 2   | Cher | The Shoop Shoop Song
 2   | Avril Lavigne feat. Chad Kroeger | Let Me Go
@@ -764,18 +796,17 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Robbie Williams | Feel
 2   | Depeche Mode | Enjoy the silence
 2   | Del Tha Funkee Homosapie | Mistadobalina
+2   | Die Ärzte | M&amp;F (Single)
 2   | Bob; Funkstar Deluxe Marley | Sun is shining
 2   | Sia | Chandelier
 2   | Michael Jackson | They don&#039;t care about us
 2   | Bbou | Es gibt nix Bessas wey wos Guads
 2   | Beyoncé | Single Ladies (Put A Ring On It)
-2   | Dr. Alban | Sing Hallelujah
 2   | Bryan Adams | Straight from the heart
 2   | Eagles | Hotel California
 2   | Jennifer Medley | (I&#039;ve had) The time of my life
 2   | Nickelback | Gotta be somebody
 2   | Lana Del Rey | Summertime Sadness (Single Mix)
-2   | Sheppard | Geronimo
 2   | Robin Thicke feat. T.I. &amp; Pharrell | Blurred lines
 2   | Depeche Mode | Never let me down again
 2   | Gala | Freed from desire
@@ -784,24 +815,26 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Red Hot Chili Peppers | Under the bridge
 2   | Katy Perry | I kissed a girl
 2   | Outfield | Your love
-2   | Milky Chance | Stolen dance
 2   | Plain White T&#039;s | Hey There Delilah
 2   | Ten Sharp | You
 2   | Roxette | Dangerous
 2   | Real Life | Send me an angel
 2   | Dan Croll | From Nowhere
+2   | Red Hot Chili Peppers | Snow (Hey Oh)
 2   | Michael Jackson | Bad
 2   | Dick Brave &amp; The Backbeats | Take good care of my baby
+2   | Claire | Silent Friday
 2   | N-Sync | Tearing up my heart
 2   | Die Fantastischen Vier feat. Don Snow | 25
 2   | Beautiful South | Perfect 10
 2   | Lionel Richie | Dancing on the ceiling
-2   | Ich + Ich | Vom selben Stern
 2   | Eiffel 65 | Blue (Da ba dee)
 2   | Madness | Our house
-2   | Green Day | Stray Heart
+2   | Bruce Hornsby and the Ra | The way it is
+2   | Glasperlenspiel | Echt
 2   |  | Ofree
 2   | Nickelback | How you remind me (Rock-Mix)
+2   | Milk &amp; Sugar Vs. Vaya Con Dios | Hey (Nah Neh Nah)
 2   | Simply Red | Stars
 2   | Meghan Trainor | All About That Bass
 2   | Sheryl Crow | All I wanna do
@@ -811,36 +844,35 @@ TIMES PLAYED | INTERPRET | TITLE
 2   | Tal Bachman | She&#039;s so high
 2   | Ace Of Base | All that she wants
 2   | Rihanna | Don&#039;t stop the music
+2   | Blur | Song 2
 2   | Madonna | Hung Up
 2   | Die Ärzte | Zu spät
 2   | Ville; Natalia Avelon Valo | Summer Wine
 2   | Jesper Munk | I Love You
 2   | Mika | Grace Kelly
 2   | Duran Duran | Ordinary world (Single)
-2   | Cro | Bad Chick
 2   | Israel Kamakawiwo&#039;ole | Over The Rainbow / What A Wonderful World (Single)
 2   | Rick Springfield | Love somebody
 2   | Atomic Kitten | The Tide is high
 2   | Guns n&#039;Roses | Sweet child o&#039;mine
 2   | Murray Head | One night in Bangkok
-2   | Coolio featuring L.V. | Gangsta&#039;s paradise
+2   | Depeche Mode | Precious
+2   | Hooters | All you zombies
 2   | Avicii featuring Aloe Blacc | Wake Me Up!
 2   | Spencer Davis Group | Keep on running
 2   | Twin Atlantic | Brothers And Sisters
-2   | AC/DC | Back In Black
 2   | James | Moving On
 2   | Lenny Kravitz | Fly Away
-2   | Holstuonarmusigbigbandclub | Vo Mello bis ge Schoppornou
 2   | Tim Bendzko | Nur noch kurz die Welt retten
 2   | Linkin Park | Final Masquerade
 2   | Simple Plan | When I&#039;m Gone
 2   | Joe Cocker | Summer in the city
+2   | Aura Dione (feat. Rock Mafia) | Friends
 2   | Falco | The Sound of Musik
-2   | John Farnham | That&#039;s freedom
 2   | Kenny Loggins | Danger zone
-2   | Toto | Rosanna
 2   | Mike and the Mechanics | Over my shoulder
-2   | Titiyo | Come along
+2   | Bilderbuch | Maschin
+2   | Nickelback | When We Stand Together
 1   | One Republic | Counting Stars
 1   | Franz Ferdinand | Evil Eye
 1   | Rhodes | Your Soul
@@ -882,9 +914,8 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Climax Blues Band | Couldn&#039;t get it right
 1   | Depeche Mode | Policy of truth
 1   | Nickelback | This afternoon
-1   | Milow | Ayo Technology
 1   | Right Said Fred | I&#039;m too sexy
-1   | Hadern im Sternenhagel | Sophie
+1   | Saxon | Princess of the night
 1   | Icona Pop | Girlfriend
 1   | Nina Persson | Food for the beast
 1   | Eurythmics | Sweet dreams
@@ -895,9 +926,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | FM Belfast | Underwear
 1   | Frühaufdreher-Lieblingsmix | Stand up for the champions/Au revoir/We are the champions
 1   | Little Daylight | Overdose
-1   | Wilhelm Tell Me | Oh My God
 1   | Roxette | She&#039;s Got Nothing On (But The Radio)
-1   | Aura Dione (feat. Rock Mafia) | Friends
 1   | Atomic Kitten | Whole again
 1   | Robbie Williams | Tripping
 1   | Frühaufdreher-Lieblingsmix | Tage wie diese / Blueprint / Riptide
@@ -916,7 +945,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Rolling Stones | It&#039;s only Rock&#039;n&#039;Roll (But I like it)
 1   | Hot Chocolate | You sexy thing
 1   | REO Speedwagon | Keep on loving you
-1   | Chaka &amp; Pliers Demus | Twist and Shout
 1   | Peaches | Talk To Me
 1   | The Fratellis | Chelsea Dagger
 1   | Michael Jackson | Thriller
@@ -935,9 +963,9 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Plain White T&#039;S | 1,2,3,4
 1   | Hubert Kah | Sternenhimmel
 1   | Busted | Year 3000
+1   | Pitbull Feat. John Ryan | Fireball
 1   | Volbeat | Pearl Hart
 1   | H-Blockx | Ring of fire
-1   | Cro | Easy
 1   | Peter Bjorn and John | Young Folks (Single-Version)
 1   | Alex Clare | Too Close (Remix)
 1   | Flipsyde | Happy birthday
@@ -946,7 +974,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Asia | Only time will tell
 1   | Nile Rodgers | Do What You Wanna Do
 1   | Manfred Mann | For You
-1   | Moloko | Sing it back
 1   | Macklemore featuring Ziggy Stardust | And we danced
 1   | AMI | Blessing &amp; Curse
 1   | Frank in Fahrt | Alles leuchtet
@@ -971,7 +998,8 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | OneRepublic | Counting Stars
 1   | Fugees | Killing me softly
 1   | Erasure | Elevation
-1   | Shaggy | Get my party on
+1   | Dutch Diesel | Sausalito summernight
+1   | Bangles | Eternal flame
 1   | Beatles | A Hard Day&#039;s Night
 1   | Mika | Big Girl (You Are Beautiful)
 1   | Foo Fighters | Learn To Fly
@@ -982,7 +1010,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Be Ignacio | Ayo Aye (Ritmo do Coraçao) Radio Version
 1   | Vanessa Carlton | A thousand miles
 1   | Lenny Kravitz | Always on the run
-1   | Guns n&#039; Roses | Knockin&#039; on heaven&#039;s door
 1   | John Newman | Losing Sleep
 1   | Feist | 1234
 1   | Chinese Man feat. Tumi &amp; Zubz | Once Upon A Time
@@ -996,10 +1023,12 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | One Republic | Love Runs Out (Dack Remix)
 1   | Adamski | Killer
 1   | Blackout problems | HOME
+1   | Seal | kiss from a rose
 1   | The Wanted | Chasing the sun
 1   | Marlon Roudette | New Age
 1   | BBC SYMPHONY ORCHESTRA | POMP &amp; CIRCUMSTANCE (ENDE)
 1   | Tokyo Police Club | Miserable
+1   | Justin Timberlake | Sexyback
 1   | The Toy Dolls | Nellie the Elephant
 1   | Aura Dione | Geronimo
 1   | Kasabian | Re-wired
@@ -1009,8 +1038,10 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Caro Emerald | Back It Up
 1   | Muse | Supermassive black hole
 1   | Cro | Traum (Gorillas On Drums Remix)
+1   |  | In My Hands {DJ Tonic Dance Tipp}
 1   | Genesis | Tonight tonight tonight
 1   | Steve Perry | Oh Sherrie
+1   | New Order | Blue Monday 1988
 1   | The Roots feat. Erykah Badu | You Got Me
 1   | Depeche Mode | Personal Jesus
 1   | Claire | Games
@@ -1025,7 +1056,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | David Lindley | Something&#039;s Got A Hold On Me
 1   | Joe Satriani | Cryin&#039;
 1   | Prince | Purple Rain
-1   | Shania Twain | That don&#039;t impress me much
 1   | Emmelie de Forest | Only Teardrops (Eurovision 2013 - Dänemark)
 1   | Mighty Oaks | Seven Days
 1   | Jovanotti | Il più grande spettacolo dopo il Big Bang
@@ -1033,10 +1063,12 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Beth Ditto | I Wrote The Book
 1   | Spin Doctors | Little Miss can&#039;t be wrong
 1   | Richard Marx | Angelia
+1   | Free | All right now
 1   | Whitesnake | Don&#039;t break my heart again
 1   | AlunaGeorge | Just A Touch
 1   | Spider Murphy Gang | Skandal im Sperrbezirk
 1   | Kansas | Dust in the wind
+1   | Seeed | Ding
 1   | Housemartins | Caravan of love
 1   | Eros Ramazzotti | Quanto amore sei
 1   | Chet Faker | 1998
@@ -1049,10 +1081,10 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Owl City | Fireflies
 1   | Gwen; Akon Stefani | The sweet escape
 1   | Tubbe | We Won&#039;t Be Friends
-1   | Good Charlotte | I just wanna live
+1   | Elvis Presley | You&#039;ve lost that lovin&#039; feelin&#039;
 1   | Pink | Raise Your Glass
 1   | FM Belfast | Brighter Days
-1   | Manyou | Drifting Away
+1   | Freundeskreis | Anna (A-n-n-a)
 1   | Ella Eyre Naughty Boy feat.Wiz Khalifa | Think About It
 1   | Avril Lavigne | Complicated
 1   | Miley Cyrus | We Can&#039;t Stop
@@ -1063,6 +1095,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Mother&#039;s Finest | Baby Love (Live)
 1   | U2 | Hold me, thrill me, kiss me, kill me
 1   | Tina Turner | Goldeneye
+1   | Led Zeppelin | Whole lotta love (Single)
 1   | Police | Walking on the moon
 1   | Kelly Clarkson | Breakaway
 1   | Mateo feat. Xavier Naidoo | Ich hau ab
@@ -1074,7 +1107,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Donna Summer | She works hard for the money
 1   | Dionne Warwick | That&#039;s what friends are for
 1   | Coolio | Gangsta&#039;s Paradise
-1   | Apollo Four Forty | Ain&#039;t talkin&#039; bout dub
 1   | Dodgy | Good enough
 1   | Cee-Lo Green | F**k You!
 1   | John Hall | Maneater
@@ -1084,13 +1116,15 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | The Ting Tings | Shut up and let me go
 1   |  | Team/Tubthumping/Traum (25.7. 13 Uhr)
 1   | The Black Keys | Gold on the ceiling
+1   | Pat Benatar | We belong
 1   | Hooters;C. Lauper | Boys will be boys
 1   | Orchestral Manoeuvres In The Dark | Maid of Orleans
-1   | Status Quo | In the army now
+1   | Nelly | Hot in herre
 1   | Katy Timbaland; Perry | If we ever meet again
 1   | Eliza Doolittle | Pack Up (Spezial)
 1   | Shakira | Loca
 1   | Wallflowers | One headlight
+1   | Sugababes | Freak like me
 1   | Cornershop | Brimful of Asha (Remix)
 1   | Verve | Bitter sweet symphony
 1   | Bob Marley &amp; the Wailers | Is this love
@@ -1110,6 +1144,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Aerosmith | I don&#039;t want to miss a thing
 1   | Coldplay | Magic
 1   | Mika | Relax, take it easy
+1   | Wilhelm Tell Me | Oh My God
 1   | Puff Daddy featuring Jimmy Page | Come with me
 1   | Queen | Bicycle race
 1   | Sonique | Sky
@@ -1129,7 +1164,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Kim Wilde | Kids in America
 1   | Soundgarden | Black hole sun
 1   | Bob Seger &amp; the Silver B | The fire inside
-1   | The Elephant Circus | On A Sunny Day
+1   | Spin Doctors | Two Princes
 1   | Christina Stürmer | Engel fliegen einsam
 1   | BEECH | Dance For The Money
 1   | Arcade Fire | Black Mirror
@@ -1141,7 +1176,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | M.I.A. | Paper Planes
 1   | Tommy Morrison | How Come The Weak Man
 1   | Woodkid | I Love You
-1   | Icona Pop | I love it
 1   | Radiohead | Creep
 1   | Guru Josh Project | Infinity 2008
 1   | Bran Van 3000 | Drinking in L.A.
@@ -1160,6 +1194,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Truls | Out Of Yourself
 1   | Train | Drive By
 1   | Robert Palmer | Know by now
+1   | Ron Stewart | This old heart of mine
 1   | Laing | Safari
 1   | Moby | Why does my heart feel so bad
 1   | Cranberries | Zombie
@@ -1167,7 +1202,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Blind Melon | No rain
 1   | Vanilla Ice | Ice Ice Baby
 1   |  | Dance With Somebody
-1   | Nickelback | When We Stand Together
 1   | The Elwins | Forgetful Assistance
 1   | Paul Kalkbrenner | Das Gezabel (Radio Mix)
 1   | Lieblingsmix | Nobody to Love/My Sharona/Jungle Drum (21.7. 13 Uhr)
@@ -1209,23 +1243,23 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Cars | Hello again
 1   | Mariah Carey | Without you
 1   | Cardigans | My favorite game
-1   | Mariah Carey | Meteorite
+1   | Elvis Presley | Hound Dog
+1   | Calvin Harris | Summer (Tombs Remix)
 1   | Robin Beck | First Time
 1   | Fiva | Einen Sommer lang nur tanzen
 1   | Mike &amp; the Mechanics | Everybody gets a second chance
 1   | Paolo Nutini | Scream (Funk My Life Up)
-1   | Free | All right now
 1   | Sam Sparro | Black and Gold
 1   | Joe Cocker | Could you be loved
 1   | Will Smith | Gettin&#039; jiggy with it
 1   | Monika Roscher Big Band | Human Machines
+1   |  | Animals (Chazza Moo Remix)
 1   | Rudimental feat. John Newman | Feel The Love
 1   | Larsito | Unter diesen Wolken (Henry Andres Remix)
 1   | McFadden &amp; Whitehead | Ain&#039;t no stoppin&#039; us now
 1   | Joshua Kadison | Jessie
 1   | Bruce Springsteen | Dancing in the dark
 1   | Powers | Money
-1   | Laura Branigan | Self control
 1   | James Brown | I got you (I feel good)
 1   | Brian Wilson &amp; Van Dyke Parks | Sail Away
 1   | Nick &amp; June | Annie Hall
@@ -1233,6 +1267,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | D.Ö.F. | Codo
 1   | Ryan Adams | Gimme Something Good
 1   | The BossHoss | Don&#039;t gimme that
+1   | Prince | Girls &amp; Boys
 1   | Die Sonne | Neu erfunden
 1   | Counting Crows | Colorblind
 1   | Alphaville | Forever young
@@ -1251,7 +1286,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Frühaufdreher-Lieblingsmix | Wake me up! / In the Summertime / Riptide
 1   | Nena | 99 Luftballons
 1   | Catch | 25 years
-1   | Culture Beat | Mr. Vain
 1   | Natasha Bedingfield | Pocketful of Sunshine
 1   | Foreigner | Feels like the first time
 1   | Chris West | Homecoming
@@ -1281,16 +1315,15 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Daryl Braithwaite | One Summer
 1   | Taio Cruz | There She Goes (Single)
 1   | Bell Book &amp; Candle | Rescue me
-1   | Spin Doctors | Two Princes
+1   | The Elephant Circus | On A Sunny Day
 1   | Temptations | Papa was a rollin&#039; stone
 1   | Cure | The love cats
 1   | Christina Pitbull; Aguilera | Feel This Moment
 1   | Alanis Morissette | Thank u
-1   | Watershed | Indigo Girl
+1   | Shaggy | In the summertime ( &#039;96 Version )
 1   | M/A/R/S/S | OneHitWonder # 662 &#034;Stardust&#034; (15.8.14 - 14.20 Uhr)
 1   | OutKast | Ms. Jackson
 1   | Lieblingsmix | Timber/Au Revoir/Wouldn&#039;t it be good
-1   | Eddie Money | Take me home tonight
 1   | Radical Face | The Mute
 1   | Bob Seger | Old time rock &amp; roll
 1   | Courteeners | Summer
@@ -1321,12 +1354,14 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Robbie Williams | She&#039;s the one
 1   | AC/DC | Night Prowler
 1   | Elliott Smith | Between The Bars
+1   | Die Fantastischen 4 | Und Los
 1   | KlangKuenstler | Man ON The Moon feat. Alice Phoebe Lou (Radio Edit)
 1   | Sheryl Crow | Best Of Times
 1   | Christina Stürmer | Ich lebe
 1   | Katrina and The Waves | Walking on sunshine
 1   | Rihanna | Umbrella
 1   | Revolverheld feat. Marta Jandová | Halt dich an mir fest (Duett Version)
+1   | Mika | Relax, Take It Easy
 1   | Skid Row | In a darkened room
 1   | Saga | On the loose
 1   | Nelly Furtado | I&#039;m like a bird
@@ -1344,6 +1379,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Söhne Mannheims | Und wenn ein Lied
 1   | Sean Paul | Turn It Up
 1   | Ofra Haza | Im nin&#039;alu
+1   | Icona Pop | I love it
 1   | Empire Of The Sun | Walking on a dream
 1   | Wham! | Everything she wants
 1   | Electric Light Orchestra | Don&#039;t bring me down
@@ -1357,11 +1393,13 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Destiny&#039;s child | Independent Women Part 1
 1   | Daniel Powter | Bad Day
 1   | Supergrass | Alright
+1   | Lady GaGa | Poker Face
 1   | Police | Message in a bottle
 1   | Imagine Dragons feat. Kendrick Lamar | Radioactive (Remix)
+1   | Backstreet Boys | Larger than life
 1   | Die Fantastischen Vier | Ernten was wir säen
 1   | The Verve | Bitter Sweet Symphony
-1   | Saxon | Princess of the night
+1   |  | Hideaway (Dzeko &amp; Torres Remix)
 1   | Mr. Probz | Waves (Rakish Remix)
 1   | Extreme | More Than Words (Remix)
 1   | Billy Idol | White wedding
@@ -1397,9 +1435,11 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Milow | I was a famous Singer (Live)
 1   | Oasis | Whatever
 1   | Bob&amp; the Wailers Marley | No woman, no cry (live)
+1   | Linkin Park | Leave out all the rest
 1   | Chromeo | Jealous (I Aint With It)
 1   | Adele | Skyfall (Single)
 1   | LFO  (Lyte Funkie Ones) | Summergirls
+1   |  | Wannabe In Timberland (Mashup)
 1   | Weather Girls | It&#039;s raining men
 1   | Steve Earle | Copperhead Road
 1   | Johnny Winter | Rock and roll, hoochie koo
@@ -1412,7 +1452,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Chris Rea | On the beach
 1   | Mr. Oizo feat. Carmen Castro | Two Takes It
 1   | 50/50 | Face To Face
-1   | Katy Perry (feat. Snoop Dogg) | California gurls
 1   | Lenka | Trouble Is A Friend
 1   | Robert Palmer | I didn&#039;t mean to turn you on
 1   | Eric Carmen | Make me lose control
@@ -1431,15 +1470,18 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Pet Shop Boys | West end girls
 1   | Cher | Believe
 1   | Bloodhound Gang | The bad touch
+1   | R.E.M. | Everybody Hurts
 1   | Portugal The Man | The Sun
 1   | Urban Cone | Urban Photograph
 1   | Lady Gaga; Beyoncé | Telephone
 1   | Safri Duo | Played-a-live (The Bongo Song)
 1   | Milk &amp; Sugar | Canto Del Pilón (feat. Maria Marquez)
 1   | Avicii | Hey Brother (Syn Cole Remix)
+1   | Beyoncé; Jay-Z | Crazy in love
 1   | Stakka Bo | Here we go
 1   | Usher | You make me wanna...
 1   | H-Blockx | Risin&#039; high
+1   | Mr. Oizo | Flat beat
 1   | Silbermond | Krieger des Lichts
 1   | Oldfield | Moonlight shadow
 1   | Sandi Thom | I wish I was a Punk Rocker
@@ -1447,7 +1489,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Stone Sour | Bother
 1   | Nash &amp; Young Crosby | Ohio (live)
 1   | GLS United | Rapper&#039;s Deutsch
-1   | Die Ärzte | M&amp;F (Single)
 1   | The Blue Van | The Beat Goes On
 1   | John Kilzer | Red blue jeans
 1   | Aloe Blacc | The Man (Radio Edit Version)
@@ -1469,6 +1510,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Systema Solar | Yo Voy Ganao
 1   | Dear Reader | Down Under, Mining
 1   | Phil Rudd | Repo Man
+1   | DEEJAY FAMILY | Summer Party Megamix (Part One)
 1   | Blue October | Say It
 1   | Heart | Will you be there (in the morning)
 1   | Glasvegas | Geraldine
@@ -1477,7 +1519,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Dio | Holy diver
 1   | Mary J. Blige | Family affair
 1   | Cameo | Word up
-1   | Glasperlenspiel | Echt
 1   | Sky Ferreira | I Blame Myself
 1   | Chicago | Alive Again
 1   | Zac Brown Band | Toes
@@ -1499,8 +1540,11 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Maxim | Meine Soldaten
 1   | The Troggs | Wild Thing
 1   | Frankie Goes to Hollywood | Relax
-1   | Sunrise Avenue | I Don&#039;t Dance (Radio Version)
+1   | KlangKuenstler feat. Alice Phoebe Lou | Man On The Moon
+1   | Pearl Jam | Alive
+1   | REO Speedwagon | Can&#039;t fight this feeling
 1   | Mausi | My Friend Has A Swimming Pool
+1   | Elvis Presley | Suspicious Minds
 1   | Yolanda Be Cool &amp; Dcup | We No Speak Americano
 1   | The Kooks | Down
 1   | The Pretty Reckless | Messed Up World (Fd Up World)
@@ -1526,6 +1570,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Marlon Roudette | When The Beat Drops Out (Florian Paetzold Radio Remix)
 1   | Jupiter Jones | Still
 1   | Edie Brickell &amp; New Bohemians | What I am
+1   | Fettes Brot | Nordisch by nature (Teil 1)
 1   | DJ Snake &amp; Lil Jon | Turn Down For What
 1   | Ed Sheeran | The A Team
 1   | Eminem | Berzerk
@@ -1539,6 +1584,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Michael Jackson | Heal the world
 1   | Firehouse | Don&#039;t treat me bad
 1   | Snow Patrol | Called Out In The Dark
+1   | Coldplay | Talk
 1   | Neneh Cherry | Buffalo stance
 1   | Glenn Frey | The heat is on
 1   | The View | How long
@@ -1560,9 +1606,9 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | James Blunt | Bonfire Heart
 1   | Meat Loaf | I&#039;d do anything for love (But I won&#039;t do that)
 1   | Slash | World On Fire
+1   | Who | Pinball wizard
 1   | Robert Palmer | Johnny and Mary
 1   | Billy Joel | We didn&#039;t start the fire
-1   | Christina Stürmer | Ich hör auf mein Herz
 1   | Moonbootica | These Days Are Gone
 1   | Steel Panther | The burden of being wonderful
 1   | Netsky feat. Beth Ditto | Running Low
@@ -1585,7 +1631,9 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Fugees | Fu-gee-la
 1   | Beck | Nobody&#039;s Fault But My Own
 1   | Linkin Park | New Divide
+1   | Richard O&#039;Brien | Time warp
 1   | Juanes | A Dios Le Pido
+1   | Madness | House of fun
 1   | Badly Drawn Boy | Disillusion
 1   | Kraak &amp; Smaak feat. Sam Duckworth | Good For The City
 1   | Lieblingsmix | I will never let you down/Hey Soul Sisters/Smooth Criminal (11.8. 13 Uhr)
@@ -1596,11 +1644,9 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Cro | Hi Kids
 1   | Deching Sky | Di mechad I ned
 1   | Pink Cream 69 | One step into paradise
-1   | Florence + The Machine | Shake It Out
 1   | Eros Ramazzotti | Dove c&#039;e musica
 1   | Wamdue Project | King of my castle
 1   | Boy | Little Numbers
-1   | Take That | The Flood
 1   | Herr Tischbein | Sympathie
 1   | Blackberry Smoke | One Horse Town
 1   | OK KID | Am Ende
@@ -1615,21 +1661,20 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Endgames | Waiting for another chance
 1   | Hello Gravity | Golden
 1   | Alex Gaudino | I&#039;m In Love (I Wanna Do It)
-1   | Camouflage | The great commandment
 1   | Roxette | Wish I could fly
 1   | Lana Del Rey | Video Games
 1   | Rod; Sting Adams | All for love
 1   | The Avener | Fade Out Lines (Radio Edit)
-1   | Ramones | I wanna be sedated
+1   | Limp Bizkit | Take a look around
 1   | 5 Seconds of Summer | Don&#039;t Stop
 1   | Dobie Gray | Drift Away
 1   | Philipp Poisel | Eiserner Steg
 1   | Pink | Funhouse
 1   | Exclusive | Boot fahren
 1   | Jennifer Lopez | Feelin&#039; So Good
+1   | Florence + The Machine | Shake It Out
 1   | Dierks Bentley | Drunk On A Plane
 1   | The Divine Comedy | At the indie disco
-1   | Depeche Mode | Precious
 1   | The Naked &amp; Famous | Young Blood
 1   | Olson | James Dean
 1   | Cro | Bad Chick (Radio Version)
@@ -1637,6 +1682,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | INXS | New sensation
 1   | Tacabro | Tacatà
 1   | Marteria | OMG!
+1   |  | Boom
 1   | Banks | Drowning
 1   | Klaxons | Show Me A Miracle
 1   | Indeep | Last night a DJ saved my life
@@ -1655,7 +1701,8 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Kaiser Chiefs | Ruffians On Parade
 1   | Arcade Fire | Rebellion (Lies)
 1   | Dire Straits | Money for nothing
-1   | Dutch Diesel | Sausalito summernight
+1   | Natasha Bedingfield | These Words
+1   | Shaggy | Get my party on
 1   | Nazareth | Telegram
 1   | C.B. Green feat. Brigitte Theile | Love of my life (Unplugged)
 1   | Sondre Lerche | Bad Law
@@ -1670,6 +1717,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Beggs &amp; Howard Ellis | Big bubbles, no troubles
 1   | Alex Band | Tonight
 1   | Alt-J | Hunger Of The Pine
+1   | Kylie Cruz | Higher
 1   | Backstreet Boys | Everybody (Backstreet&#039;s back)
 1   | Cannata | Fortune teller
 1   | Nazareth | Love hurts
@@ -1691,14 +1739,15 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Seither | Nobody Praying for me
 1   | Air | Kelly watch the stars
 1   | Deadmau5 feat. Colleen D&#039;Agostino | Seeya
+1   | Eminem | My Name Is
 1   | Ace | How long
 1   | POLLYester | Concièrge d&#039;Amour
 1   | Cosby | Love And War
 1   | Axe | Battles
 1   | Vance Joy | Riptide (Funkfreshs Ibiza Mix)
 1   | Spice Girls | Wannabe
+1   | Chaka Khan | I feel for you
 1   | Nena | Nur geträumt
-1   | Smash Mouth | I&#039;m a believer
 1   | Fertig Los! | Wenn du mich brauchst
 1   | Alicia Jay-Z; Keys | Empire State of Mind
 1   | Madonna | The power of good-bye
@@ -1712,6 +1761,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Paul Young | Love of the common people
 1   | Frankie Goes To Hollywood | Rage hard
 1   | Vampire Weekend | Oxford Comma
+1   | Beck | Heart Is A Drum
 1   | UFO | Only you can rock me
 1   | Rolling Stones | Emotional rescue
 1   | a-ha | Take on me
@@ -1723,16 +1773,19 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Survivor | High on you
 1   | Blondie | The Tide is high
 1   | Smoke City | Underwater love
+1   | Michael Jackson | Earth Song
 1   | Bombay Bicycle Club | Feel
 1   | Kafka | Ich tanze nackt in meinem Zimmer
 1   | Bryan Adams | (Everything I do) I do it for you
 1   | P. McCartney; M. Jackson | Say say say
 1   | Marcy Playground | Sex &amp; candy
 1   | Waters | Got To My Head
+1   | Madcon | Freaky Like Me
 1   | Scissor Sisters | I Don&#039;t Feel Like Dancin&#039;
 1   | July Talk | Guns + Ammunition
 1   | Guns n&#039; Roses | November rain (LP-Version)
 1   | IMPALA RAY | Io &amp; I
+1   | Mariah Carey | Meteorite
 1   | Tom Cochrane | life is a highway
 1   | Tipps für Wilhelm | Ganz weit im Osten
 1   | Unheilig | Als wär&#039;s das erste Mal
@@ -1742,6 +1795,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Xavier RZA; Naidoo | Ich kenne nichts (das so schön ist wie du)
 1   | Little Dragon | Paris
 1   | Die Fantastischen Vier | Tag am Meer
+1   | Jovanotti | L&#039;ombelico del mondo
 1   | Kelly Nelly; Rowland | Dilemma
 1   | Adel Tawil | Lieder
 1   | Heart | Wild Child
@@ -1753,6 +1807,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | MGMT | Electric Feel
 1   | Prince | I would die 4 u
 1   | Manfred Manns Earth Band | The Mighty Quinn (Single)
+1   | Snap | The Power
 1   | Orson | No Tomorrow
 1   | Kanye West | Black Skinhead
 1   | Michel Van Dyke | Ging in die Welt hinaus
@@ -1761,6 +1816,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Bryan Adams | This time
 1   | Mick Jagger | Hard woman
 1   | Four Seasons | December 1963 (Oh, what a night)
+1   | Spiller | Groove Jet (if this ain&#039;t love)
 1   | Manfred Mann&#039;s Earth Band | The Mighty Quinn (Single)
 1   | Tomcraft | Loneliness
 1   | Emeli Sandé | Read all about it (Part 3)
@@ -1770,6 +1826,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Presidents Of The U.S.A. | Peaches
 1   | The Drums | Magic Mountain
 1   | Jack Penate | Have I Been A Fool
+1   | Elvis Presley | Polk Salad Anie
 1   | Joe Walsh | In The City
 1   | Aaliyah | Try again
 1   | Genesis | Mama
@@ -1788,9 +1845,8 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Mike Posner | Cooler Than Me
 1   | TLC | Waterfalls
 1   | Russ Ballard | Dream on
-1   | Milk &amp; Sugar Vs. Vaya Con Dios | Hey (Nah Neh Nah)
 1   | Caesars | Jerk it out
-1   | Mika | Relax, Take It Easy
+1   | Stereo MC&#039;s | Connected
 1   | James Morrison | Broken Strings
 1   | Huey Lewis | The Power of Love
 1   | Pink Floyd | Money
@@ -1799,7 +1855,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Baha Men | Who let the dogs out
 1   | Creme 21 | Wann wird&#039;s mal wieder richtig Sommer
 1   | Tori Amos | Cornflake girl
-1   | Blur | Song 2
 1   | ZZ Top | Viva Las Vegas
 1   | Buggles | Video killed the radio star
 1   | Timbaland; One Republic | Apologize
@@ -1811,14 +1866,13 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Coldplay | In my place
 1   | Kylie Minogue | In my arms
 1   | Woodkid | Run boy run
+1   | Good Charlotte | I just wanna live
 1   | Stereotide | Someday
 1   | Frühaufdreher-Lieblingsmix | It&#039;s a beautiful day/Air balloon/We didn&#039;t start the fire
 1   |  | Pharrell Williams - Come Get it Bae
-1   | Bilderbuch | Maschin
 1   | Melissa Etheridge | Bring me some Water
 1   | Justin Timberlake | Rock your body
 1   | Snow Patrol | Shut Your Eyes
-1   | Joe Cocker | You can leave your hat on
 1   | Human League | Don&#039;t you want me
 1   | Band Of Skulls | Himalayan
 1   | Sweet | Ballroom Blitz
@@ -1831,7 +1885,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Lieblingsmix | Can&#039;t Remember to Forget You/Budapest/Burning Heart (25.7. 16 Uhr)
 1   | Sean Paul | Temperature
 1   | INXS | Original sin
-1   | Who | Pinball wizard
 1   | Flipsyde | Trumpets (Never Be The Same Again)
 1   | Flash and The Pan | Midnight man
 1   | Lou Gramm | Midnight Blue
@@ -1844,11 +1897,12 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Sixpence None The Richer | Kiss me
 1   | Star Slinger | Mornin&#039;
 1   | Mark Knopfler | Corned Beef City
-1   | Snap | The Power
+1   | Ramones | I wanna be sedated
 1   | R.E.M. | It&#039;s the end of the world as we know it (and I feel fine)
 1   | Deichkind | Leider geil (Leider geil)
 1   | Muse | Madness
 1   | Adam Ant | Goody two shoes
+1   | Lady GaGa | Bad Romance
 1   | Texas Lightning | No No Never
 1   | Yolanda Be Cool &amp; Dcup | We No Speak Americano (Radio Edit)
 1   | Cold War Kids | Miracle Mile
@@ -1886,8 +1940,10 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Poison | Every rose has its thorn
 1   | Atlas Genius | Trojans
 1   | Offspring | Why don&#039;t you get a job?
+1   | Pitbull | Back in Time
 1   | Salt &#039;N&#039; Pepa | Push It
 1   | ZZ Top | Thunderbird (live)
+1   | Gipsy Kings | Baila me
 1   | Adele | Chasing Pavements
 1   | Ben Pearce | What I Might Do
 1   | J.C.A. | I begin to wonder
@@ -1895,10 +1951,11 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Abba | Take a chance on me
 1   | Duran Duran | Wild Boys
 1   | Shannon | Let the music play
-1   | Pearl Jam | Alive
+1   | Phil Collins | Take me home
 1   | John Waite | Missing You
 1   | Andy Burrows | As Good As Gone
 1   | Lewis Watson | Into the Wild
+1   | Steve Winwood | Back In The High Life Again
 1   | Pink | Trouble
 1   | Gypsy &amp; The Cat | Jona Vark
 1   | Simple Minds | Hypnotised
@@ -1911,7 +1968,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Lauryn Hill | Doo-wop (That thing)
 1   | Oasis | Wonderwall
 1   | Aerosmith | Rag Doll
-1   | Queen &amp; David Bowie | Under Pressure
 1   | a-ha | The living daylights
 1   | Fitz &amp; The Tantrums | The Walker
 1   | Whitney Houston | One moment in time
@@ -1924,8 +1980,9 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Die Toten Hosen | Dias como estos [Tage wie diese]
 1   | Underworld | Underneath The Radar
 1   | Joey Moe | Million
+1   | A-ha | Foot Of The Mountain
 1   | Matteo Capreoli | Kinder des Lichts
-1   | Opus | White Land (Maxi)
+1   | Alliance Ethnik | Respect
 1   | Jason Mraz | Hello, You Beautiful Thing
 1   | Eminem featuring Rihanna | The Monster
 1   | Magnum | Lonely Night
@@ -1945,12 +2002,14 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | No Doubt | Hey baby
 1   | Simply Red | Something got me started
 1   | Taio Cruz | Hangover (Spezial)
-1   | Tanita Tikaram | Twist in my sobriety
+1   | Berlin | Take my breath away
 1   | Cinderella | Gypsy Road
 1   | Jamie Woon | Night Air
 1   | Alex Cumfe Band | Wejnreiten
 1   | Larsito | Unter diesen Wolken
+1   |  | From Eden
 1   | Laid Back | Sunshine Reggae
+1   | Avril Lavigne | Nobody&#039;s home
 1   | Angus &amp; Julia Stone | Grizzly Bear
 1   | Republica | Ready To Go
 1   | Nick Cave; Kylie Minogue | Where the wild roses grow
@@ -1973,7 +2032,7 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Prince | Cream
 1   | Sango feat. SPZRKT | Middle Of Things, Beautiful Wife (STWO Remix)
 1   | Coolio | 1,2,3,4 (sumpin&#039; new)
-1   |  | From Eden
+1   | Shaggy | Feel the rush
 1   | OK Kid | Grundlos
 1   | Joyce Sims | Come into my life
 1   | Nazareth | This flight tonight
@@ -1985,12 +2044,12 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Byrds | Mr. Tambourine Man
 1   | Wax | Rosana (Radio Edit)
 1   | Roger Chapman | Mango Crazy
+1   | Loreen | Euphoria (House Remix)
 1   | Ataris | The Boys of Summer
 1   | Woodkid | The Golden Age
 1   | Lana Del Rey | Born To Die
 1   | a-ha | Foot Of The Mountain
 1   | Crowded House | Something so strong
-1   | Shaggy; Rayvon | Angel
 1   | USA for Africa | We are the world
 1   | Lighter Shade Of Brown | On a sunday afternoon
 1   | Marquess | Vayamos Companeros
@@ -2003,9 +2062,11 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Rob Thomas | Little Wonders
 1   | Stevie Nicks | Edge of seventeen
 1   | Kiss | I was made for lovin&#039; you
+1   | Tina Turner | What&#039;s love got to do with it
 1   | Tiziano Ferro | Stop! Dimentica
 1   | Billy Talent | Surrender
 1   | La Bouche | Be my lover
+1   | Genesis | Follow you follow me
 1   | Beck | Loser
 1   | Nash &amp; Young Crosby | Old man (live)
 1   | Billy the Kid | Phone Bills
@@ -2022,7 +2083,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Lynyrd Skynyrd | Free Bird (Outtake Version)
 1   | Tove Lo | Habits (Stay High)
 1   | The Gaslight Anthem | Rollin&#039; And Tumblin&#039;
-1   | Saidah Baba Talibah | Do it
 1   | Pete Philly | One
 1   | Phil Collins | You can&#039;t hurry love
 1   | Pitbull/Jennifer Lopez/Claudia Leitte | We Are One (Ole Ola)
@@ -2035,7 +2095,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Rhonda | Terrible Lie
 1   | Queen | Crazy little thing called love
 1   | Kosheen | Catch
-1   | Empire Of The Sun | Alive (Mat Zo Remix)
 1   | Bob Seger | Shakedown
 1   | Take That | Patience
 1   | Snow | Informer
@@ -2069,7 +2128,6 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Jake Owen | Beachin&#039;
 1   | Thees Uhlmann | Zum Laichen und Sterben ziehen die Lachse den Fluss hinauf
 1   |  | Don&#039;t you worry child/Why can&#039;t this be love/Love runs out (Mix 14.8. 16 Uhr)
-1   | Maroon 5 feat. Christina Aguilera | Moves Like Jagger
 1   | Culture Beat | Inside out
 1   | NONONO | Pumpin Blood
 1   | Slade | Run run away
@@ -2082,9 +2140,10 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Stefan Raab | Space Taxi
 1   | Cassandra Steen | Stadt
 1   | Janet Jackson | Black Cat (Video Mix/Long Solo)
+1   | Garbage | Special
 1   | The Jacksons | 2300 Jackson Street
 1   | Bonnie Tyler | Total eclipse of the heart
-1   | Beck | Heart Is A Drum
+1   | Maroon 5 feat. Christina Aguilera | Moves Like Jagger
 1   | OK Go | The Writing&#039;s On The Wall
 1   | Chikinki | You Said
 1   | Amy Winehouse | Back to black
@@ -2105,9 +2164,11 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Backstreet Boys | Get down (You&#039;re the one for me)
 1   | Dimples D | Sucker DJ
 1   | Magic System | Magic In The Air (feat. Ahmed Chawki)
+1   | Elvis Presley | I got a woman
 1   | Bernhoft | Come Around
 1   | Madonna &amp; Justin Timberlake | 4 Minutes (Album Version)
 1   | LOT | Du führst Krieg
+1   | Opus | White Land (Maxi)
 1   | Rihanna; Jay-Z | Umbrella
 1   | The Kooks | Around Town
 1   | Lita Ford &amp; Ozzy Osbourne | Close my eyes forever
@@ -2115,10 +2176,12 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Melanie C. | Next best superstar
 1   | RY X | Berlin
 1   | James Morrison | You give me something
+1   | Sunrise Avenue | I Don&#039;t Dance (Radio Version)
 1   | Nik Kershaw | I won&#039;t let the sun go down on me
 1   | Hot Chocolate | Every 1&#039;s a winner
 1   | Nash &amp; Young Crosby | Chicago (live)
-1   | Bruce Hornsby and the Ra | The way it is
+1   | Watershed | Indigo Girl
+1   | Hadern im Sternenhagel | Sophie
 1   | Patti Smith | Because the night
 1   | Madonna | Jump
 1   | Bryan Adams | Kids Wanna Rock
@@ -2134,24 +2197,26 @@ TIMES PLAYED | INTERPRET | TITLE
 1   | Black M | Sur ma route
 1   | KT Tunstall | Black horse &amp; the cherry tree
 1   | Jack Johnson | The Horizon has been defeated
+1   | Manyou | Drifting Away
 1   | Bryan Adams | Somebody
 1   | The Pains Of Being Pure At Heart | Eurydice
 1   | Moop Mama | Geh mit uns
 1   | Sasha | Lucky Day
 1   | Shawn Mullins | Lullaby
 1   | Rod Stewart | Baby Jane
-1   | Hooters | All you zombies
 1   | Phil Collins | Can&#039;t Stop Loving You
 1   | Glass Tiger | Don&#039;t forget me (when I&#039;m gone)
 1   | Rolling Stones | Brown sugar
 1   | Sugarhill Gang | Rapper&#039;s delight
 1   | Talk Talk | Such a shame
 1   | Adel Tawil | Zu Hause (FINALE WM Version)
+1   | Sportfreunde Stiller | Ich war noch niemals in New York
 1   | Mick Jagger | Just another night
 1   | Beatles | All you need is love
 1   | Europe | Rock the Night
 1   | Dead or Alive | You Spin Me Round (Like A Record)
 1   | Rufus &amp; P | Good Morning [Bayern 3-Version]
+1   | John Newman | Love Me Again (Gemini Remix)
 1   | Eagles Of Death Metal | Wannabe In L.A.
 1   | Andy Burrows | Keep On Moving On
 1   | Sia feat. The Weeknd &amp; Diplo | Elastic Heart
